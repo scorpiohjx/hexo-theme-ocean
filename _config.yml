@@ -2,8 +2,8 @@
 menu:
   Home: /
   Archives: /archives
-  Gallery: /gallery
-  About: /about
+  # Gallery: /gallery
+  # About: /about
 rss: /atom.xml
 
 
